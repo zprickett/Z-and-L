@@ -13,7 +13,7 @@ $(document).ready(function() {
     el: '#map',
     lat: 42.585444,
     lng: 12.891598,
-    zoom: 8,
+    zoom: 7,
   });
   map.addMarker({
     lat: 42.954664,
