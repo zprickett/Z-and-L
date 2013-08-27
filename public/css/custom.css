@@ -71,7 +71,7 @@ a.carousel-control:hover {
                              header
 **************************************************************/
 .site-header {
-  background-image: url(../img/bg3_low2.jpg);
+  background-image: url(https://s3.amazonaws.com/Amazon-backup/bg3_sm.jpg);
   background-repeat: no-repeat;
   -webkit-background-size:cover;
   -moz-background-size:cover;
