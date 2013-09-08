@@ -21,7 +21,7 @@ $(document).ready(function() {
     title: 'Wedding',
     open: 'true',
     infoWindow: {
-        content: '<p>Wedding is Here!</p>'
+        content: '<p>Wedding is here close to San Benedetto del Tronto!</p>'
       }
   });
   map.setContextMenu({
